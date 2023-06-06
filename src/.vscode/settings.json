@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "util.h": "c",
+        "cpld_spi.h": "c",
+        "stdbool.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "pages.h": "c",
+        "sdcard.h": "c",
+        "sdcard_spi.h": "c",
+        "smslib.h": "c",
+        "stdio.h": "c",
+        "fatfs.h": "c",
+        "corecrt.h": "c",
+        "math.h": "c",
+        "gfx.h": "c",
+        "fat.h": "c",
+        "handlefatfs.h": "c",
+        "font.h": "c",
+        "fat32.h": "c",
+        "main.h": "c"
+    }
+}

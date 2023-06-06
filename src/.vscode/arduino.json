@@ -1,0 +1,6 @@
+{
+    "port": "COM8",
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:avrisp",
+    "sketch": "c:\\Users\\aliri\\OneDrive\\Documentos\\PlatformIO\\Projects\\220315-213756-uno\\src\\SdCard_Fatfs.ino"
+}

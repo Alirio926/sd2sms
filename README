@@ -1,0 +1,23 @@
+# SD2SMS
+Cartucho de Master System com 1MB de memoria sram para carregamento de jogo, 16kB de memoria 
+fram para salve e SDCARD com implementação do sistema de arquivo FAT32.
+
+# Mappers
+Suporta Sega slot 1 e 2, Korean map.
+
+#Gravando boot
+A FRAM pode ser gravada em uma gravadora ou apos montagem do cartucho, gravar
+o boot como se fosse um jogo direto no cart.
+
+# Detalhamento do funcionamento em
+https://squallsoftgames.com.br/blog/2022/10/17/cartucho-multijogo-para-master-system/
+https://squallsoftgames.com.br/blog/2022/09/26/cartucho-multi-jogo-com-sdcard-e-1mb-para-master-system/
+
+# Referências
+https://github.com/db-electronics/SMSMapper
+https://github.com/makestuff/umdkv2/tree/master/m68k/menu
+https://www.elotrolado.net/wiki/DevkitSMSTutorial
+https://www.smspower.org/maxim/HowToProgram/Index
+https://www.smspower.org/forums/15888-DevkitSMSTutorial?start=50
+https://www.smspower.org/forums/18794-GettingStartedWithSMSDevelopmentInC
+http://steveproxna.blogspot.com/2019/04/devkitsms-programming-sample-iii.html
