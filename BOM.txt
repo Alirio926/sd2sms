@@ -15,6 +15,7 @@ NOTES
 -----
 
 [1] Any other sram chip with same pinout will works.
+    Works with only one sram chip.
 [2] The link is only for package reference, the clock 
 	used in code is 50MHz, it's possible to change and 
 	use another value.
