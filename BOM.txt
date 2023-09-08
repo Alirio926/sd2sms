@@ -1,15 +1,15 @@
 BILL OF MATERIALS
 -----------------
 
-Qty		Part			    Package				      Notes	  Link
-1		  AMS1117-3.3		SOT-223
-1		  XC95144			  TQFP-100
-1		  FM1808			  SOIC-28
-2		  AS6C4008		  SOP-32				      [1]
-1		  Xtal 50Mhz		SMS-4P-L7.0-W5.0	  [2]		  https://www.lcsc.com/product-detail/Oscillators_Shenzhen-SCTF-Elec-SX7M32-768M20F30TNN_C2901496.html
-1		  XKTF-N02-N		SMD							            https://www.lcsc.com/product-detail/SD-Card-Connectors_XKB-Connectivity-XKTF-N02-N_C381084.html
-5		  Cap 100nf		  0805
-1		  Cap 22uf		  D5.0XH5.5	
+Qty		Part			Package			Notes	  Link
+1		AMS1117-3.3		SOT-223
+1		XC95144			TQFP-100
+1		FM1808			SOIC-28
+2		AS6C4008		SOP-32			[1]
+1		Xtal 50Mhz		SMS-4P-L7.0-W5.0	[2]	https://www.lcsc.com/product-detail/Oscillators_Shenzhen-SCTF-Elec-SX7M32-768M20F30TNN_C2901496.html
+1		XKTF-N02-N		SMD				https://www.lcsc.com/product-detail/SD-Card-Connectors_XKB-Connectivity-XKTF-N02-N_C381084.html
+5		Cap 100nf		0805
+1		Cap 22uf		D5.0XH5.5	
 
 NOTES
 -----
